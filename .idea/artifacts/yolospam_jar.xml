@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="yolospam:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/yolospam_jar</output-path>
+    <root id="archive" name="yolospam.jar">
+      <element id="module-output" name="yolospam" />
+    </root>
+  </artifact>
+</component>
